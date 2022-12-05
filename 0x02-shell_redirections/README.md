@@ -1,1 +1,1 @@
-19-AZ
+18-letteronly
